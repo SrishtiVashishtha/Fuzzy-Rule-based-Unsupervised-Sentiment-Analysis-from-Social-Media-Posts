@@ -6,10 +6,7 @@ This paper performs the sentiment analysis of social media posts particularly tw
 
 **Dataset**
 
-Any twitter dataset can be used for this fuzzy rule system. The dataset should contain a column for storing text and another column for storing sentiment labels of text. Example: [Sentiment140](http://help.sentiment140.com/for-students), [SemEval 2017](http://alt.qcri.org/semeval2017/task4/), [SemEval 2016](http://alt.qcri.org/semeval2016/task4/), etc. 
-
-Popular website for datasets is: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=&area=&numAtt=&numIns=greater1000&type=&sort=nameUp&view=table)
-
+Any twitter dataset can be used for this fuzzy rule system. The dataset should contain a column for storing text and another column for storing sentiment labels of text. Example: [Sentiment140](http://help.sentiment140.com/for-students), [SemEval 2017](http://alt.qcri.org/semeval2017/task4/), [SemEval 2016](http://alt.qcri.org/semeval2016/task4/), etc. A popular website for datasets is: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=&area=&numAtt=&numIns=greater1000&type=&sort=nameUp&view=table)
 
 **Lexicon**
 
